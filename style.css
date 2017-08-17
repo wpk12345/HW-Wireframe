@@ -15,7 +15,6 @@ header {
 	background: #ebebeb;
 	text-align: center;
 	padding: 30px;
-	border: 2px solid black;
 	
 }
 
@@ -23,7 +22,6 @@ nav {
 	background: #ebebeb;
 	text-align: center;
 	padding: 30px;
-	border: 2px solid blue;
 	position: relative;
 	top: 10px;
 	
@@ -35,7 +33,6 @@ section {
 	width: 495px;
 	padding-top: 20px; 
 	padding-bottom: 210px;
-	border: 2px solid red;
 	position: relative;
 	top: 30px;
 	float: left;	
@@ -44,7 +41,6 @@ section {
 article {
 	clear: both;
 	background: #777;
-	border: 2px solid green;
 	position: absolute;
 	width: 455px;
 	margin-left: 20px;
@@ -52,7 +48,6 @@ article {
 }
 
 h1 {
-	border: 2px solid black;
 	background: #ebebeb;
 	width: 420px;
 	margin: auto;
@@ -63,7 +58,6 @@ h1 {
 }
 
 p {
-	border: 2px solid black;
 	background: #ebebeb;
 	width: 420px;
 	margin: auto;
@@ -76,7 +70,6 @@ p {
 aside {
 	background: #ebebeb;
 	text-align: center;
-	border: 2px solid green;
 	padding: 30px;
 	position: relative;
 	top: 30px;
@@ -91,7 +84,6 @@ footer {
 	background: #ebebeb;
 	text-align: center;
 	padding: 30px;
-	border: 2px solid black;
 	position: relative;
 	top: 55px;
 }
