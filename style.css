@@ -34,9 +34,7 @@ section {
 	text-align: center;
 	width: 495px;
 	padding-top: 20px; 
-	margin: auto;
 	padding-bottom: 210px;
-	
 	border: 2px solid red;
 	position: relative;
 	top: 30px;
@@ -48,18 +46,32 @@ article {
 	background: #777;
 	border: 2px solid green;
 	position: absolute;
-	width: 465px;
-	
+	width: 455px;
+	margin-left: 20px;
+	padding-bottom: 165px;
 }
 
 h1 {
 	border: 2px solid black;
 	background: #ebebeb;
+	width: 420px;
+	margin: auto;
+	position: absolute;
+	margin-left: 15px;
+	padding-bottom: 35px;
+	bottom: 85px;
 }
 
 p {
 	border: 2px solid black;
 	background: #ebebeb;
+	width: 420px;
+	margin: auto;
+	bottom: 15px;
+	position: absolute;
+	margin-left: 15px;
+	bottom: 15px;
+	padding-bottom: 35px;
 }
 aside {
 	background: #ebebeb;
